@@ -1,5 +1,4 @@
 Steps for Basic Calculator:
-
 1.Define the functios needed:
   add,sub,mul,div
 2.Print options to the user.
