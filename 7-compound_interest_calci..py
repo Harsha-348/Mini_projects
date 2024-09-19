@@ -1,5 +1,5 @@
 # Compund interest calculator using python: 
-# principle(p) (1+rate/100) to the power time(t)
+# total compound interest = principle(p) * (1+rate/100) to the power time(t)
 
 principle=0
 rate=0
